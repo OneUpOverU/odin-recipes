@@ -1,1 +1,4 @@
 My very first Website that isn't just a follow through!
+
+I finished! I genuinly am loving coding so far and each time i was caught up with a problem and then figured it out especially without looking at my notes or the Odin project felt AMAZING.
+I got a good refresher of git that I needed, learned that I need to include the image/all folders I create for a website and not just files. After I finished I went and checked some other submitted solutions out to see how mine compares and I belive I did a pretty good job! I had to go back a few times and update little things I forgot to add and didn't realize until I went to run/test the code I added but even just being at the end of HTML feels like I know so much more and building this website 
